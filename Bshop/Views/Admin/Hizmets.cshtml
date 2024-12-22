@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Bshop.Models.Hizmet>
+
+@{
+    ViewData["Title"] = "Hizmet Yönetimi";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<a asp-action="CreateHizmet" class="btn btn-success mb-3">Hizmet Ekle</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Hizmet Adı</th>
+            <th>Açıklama</th>
+            <th>Süre (dk)</th>
+            <th>Fiyat</th>
+            <th>Fotoğraf</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var hizmet in Model)
+        {
+            <tr>
+                <td>@hizmet.Name</td>
+                <td>@hizmet.Description</td>
+                <td>@hizmet.DurationMinutes</td>
+                <td>@hizmet.Price.ToString("C")</td>
+                <td>
+                    <img src="@Url.Content(hizmet.PhotoUrl)" alt="@hizmet.Name" width="100" />
+                </td>
+                <td>
+                    <a asp-action="EditHizmet" asp-route-id="@hizmet.Id" class="btn btn-sm btn-primary">Düzenle</a>
+                    <a asp-action="DeleteHizmet" asp-route-id="@hizmet.Id" class="btn btn-sm btn-danger">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

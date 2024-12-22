@@ -1,0 +1,525 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PRO\\source\\repos\\Bshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|c:\\users\\pro\\source\\repos\\bshop\\bshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|solutionrelative:bshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|c:\\users\\pro\\source\\repos\\bshop\\bshop\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|solutionrelative:bshop\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|c:\\users\\pro\\source\\repos\\bshop\\bshop\\controllers\\randevucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|solutionrelative:bshop\\controllers\\randevucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|c:\\users\\pro\\source\\repos\\bshop\\bshop\\views\\randevu\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|solutionrelative:bshop\\views\\randevu\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|c:\\users\\pro\\source\\repos\\bshop\\bshop\\controllers\\calisancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|solutionrelative:bshop\\controllers\\calisancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|c:\\users\\pro\\source\\repos\\bshop\\bshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|solutionrelative:bshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|c:\\users\\pro\\source\\repos\\bshop\\bshop\\models\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|solutionrelative:bshop\\models\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|c:\\users\\pro\\source\\repos\\bshop\\bshop\\viewmodelleri\\calisanlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|solutionrelative:bshop\\viewmodelleri\\calisanlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|c:\\users\\pro\\source\\repos\\bshop\\bshop\\viewmodelleri\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|solutionrelative:bshop\\viewmodelleri\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|c:\\users\\pro\\source\\repos\\bshop\\bshop\\views\\calisan\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|solutionrelative:bshop\\views\\calisan\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BerberShopDB/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|c:\\users\\pro\\source\\repos\\bshop\\bshop\\views\\auth\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|solutionrelative:bshop\\views\\auth\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|c:\\users\\pro\\source\\repos\\bshop\\bshop\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|solutionrelative:bshop\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|c:\\users\\pro\\source\\repos\\bshop\\bshop\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|solutionrelative:bshop\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|c:\\users\\pro\\source\\repos\\bshop\\bshop\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|solutionrelative:bshop\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|c:\\users\\pro\\source\\repos\\bshop\\bshop\\viewmodelleri\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|solutionrelative:bshop\\viewmodelleri\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|c:\\users\\pro\\source\\repos\\bshop\\bshop\\bshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|solutionrelative:bshop\\bshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|c:\\users\\pro\\source\\repos\\bshop\\bshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|solutionrelative:bshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|c:\\users\\pro\\source\\repos\\bshop\\bshop\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|solutionrelative:bshop\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|c:\\users\\pro\\source\\repos\\bshop\\bshop\\views\\contact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|solutionrelative:bshop\\views\\contact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|c:\\users\\pro\\source\\repos\\bshop\\bshop\\views\\contact\\contact2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|solutionrelative:bshop\\views\\contact\\contact2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|c:\\users\\pro\\source\\repos\\bshop\\bshop\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|solutionrelative:bshop\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|c:\\users\\pro\\source\\repos\\bshop\\bshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|solutionrelative:bshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|c:\\users\\pro\\source\\repos\\bshop\\bshop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|solutionrelative:bshop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|c:\\users\\pro\\source\\repos\\bshop\\bshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|solutionrelative:bshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BerberShopDB/True/SqlTable/dbo.Hizmets.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BerberShopDB/True/SqlTable/dbo.Calisans.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BerberShopDB/True/SqlTable/dbo.Salons.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BerberShopDB/True/SqlTable/dbo.Randevular.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BerberShopDB/True/SqlTable/dbo.CalismaSaatis.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BerberShopDB/True/SqlTable/dbo.CalisanHizmets.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|c:\\users\\pro\\source\\repos\\bshop\\bshop\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|solutionrelative:bshop\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|c:\\users\\pro\\source\\repos\\bshop\\bshop\\migrations\\20241222000701_m3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1663C3-792F-4339-B7D5-AB891FB086C7}|Bshop\\Bshop.csproj|solutionrelative:bshop\\migrations\\20241222000701_m3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calisan.cs",
+              "DocumentMoniker": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Models\\Calisan.cs",
+              "RelativeDocumentMoniker": "Bshop\\Models\\Calisan.cs",
+              "ToolTip": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Models\\Calisan.cs",
+              "RelativeToolTip": "Bshop\\Models\\Calisan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:32:30.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Bshop\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Bshop\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAEQBAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:33:00.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalisanController.cs",
+              "DocumentMoniker": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Controllers\\CalisanController.cs",
+              "RelativeDocumentMoniker": "Bshop\\Controllers\\CalisanController.cs",
+              "ToolTip": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Controllers\\CalisanController.cs",
+              "RelativeToolTip": "Bshop\\Controllers\\CalisanController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:35:50.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalisanListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\ViewModelleri\\CalisanListViewModel.cs",
+              "RelativeDocumentMoniker": "Bshop\\ViewModelleri\\CalisanListViewModel.cs",
+              "ToolTip": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\ViewModelleri\\CalisanListViewModel.cs",
+              "RelativeToolTip": "Bshop\\ViewModelleri\\CalisanListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:36:02.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Bshop\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Bshop\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACcAAAAAAAAAAAAhwDoAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-22T00:10:13.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Views\\Randevu\\Create.cshtml",
+              "RelativeDocumentMoniker": "Bshop\\Views\\Randevu\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Views\\Randevu\\Create.cshtml",
+              "RelativeToolTip": "Bshop\\Views\\Randevu\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T12:44:04.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RandevuController.cs",
+              "DocumentMoniker": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Controllers\\RandevuController.cs",
+              "RelativeDocumentMoniker": "Bshop\\Controllers\\RandevuController.cs",
+              "ToolTip": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Controllers\\RandevuController.cs",
+              "RelativeToolTip": "Bshop\\Controllers\\RandevuController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:44:10.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Bshop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Bshop\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAGUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T00:10:40.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\ViewModelleri\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Bshop\\ViewModelleri\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\ViewModelleri\\LoginViewModel.cs",
+              "RelativeToolTip": "Bshop\\ViewModelleri\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:19:33.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Views\\Calisan\\List.cshtml",
+              "RelativeDocumentMoniker": "Bshop\\Views\\Calisan\\List.cshtml",
+              "ToolTip": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Views\\Calisan\\List.cshtml",
+              "RelativeToolTip": "Bshop\\Views\\Calisan\\List.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T10:37:03.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BerberShopDB/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BerberShopDB/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-22T00:07:20.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Bshop.csproj",
+              "DocumentMoniker": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Bshop.csproj",
+              "RelativeDocumentMoniker": "Bshop\\Bshop.csproj",
+              "ToolTip": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Bshop.csproj",
+              "RelativeToolTip": "Bshop\\Bshop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-22T10:19:01.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\ViewModelleri\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Bshop\\ViewModelleri\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\ViewModelleri\\RegisterViewModel.cs",
+              "RelativeToolTip": "Bshop\\ViewModelleri\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:20:03.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Bshop\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Bshop\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:20:28.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Bshop\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Bshop\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T10:21:01.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "Bshop\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "Bshop\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T10:21:58.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Views\\Auth\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Bshop\\Views\\Auth\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Views\\Auth\\AccessDenied.cshtml",
+              "RelativeToolTip": "Bshop\\Views\\Auth\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T10:22:42.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Program.cs",
+              "RelativeDocumentMoniker": "Bshop\\Program.cs",
+              "ToolTip": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Program.cs",
+              "RelativeToolTip": "Bshop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:16:45.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Bshop\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Bshop\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:09:18.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "contact2.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Views\\Contact\\contact2.cshtml",
+              "RelativeDocumentMoniker": "Bshop\\Views\\Contact\\contact2.cshtml",
+              "ToolTip": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Views\\Contact\\contact2.cshtml",
+              "RelativeToolTip": "Bshop\\Views\\Contact\\contact2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T10:11:54.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Bshop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Bshop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T00:12:40.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Bshop\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Bshop\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T00:12:08.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "dbo.Hizmets.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BerberShopDB/True/SqlTable/dbo.Hizmets.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BerberShopDB/True/SqlTable/dbo.Hizmets.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-22T00:05:30.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Bshop\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Models\\User.cs",
+              "RelativeToolTip": "Bshop\\Models\\User.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA/wBsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T00:09:11.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Views\\Contact\\contact.cshtml",
+              "RelativeDocumentMoniker": "Bshop\\Views\\Contact\\contact.cshtml",
+              "ToolTip": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Views\\Contact\\contact.cshtml",
+              "RelativeToolTip": "Bshop\\Views\\Contact\\contact.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T10:11:52.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bshop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Bshop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T00:09:33.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "dbo.Salons.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BerberShopDB/True/SqlTable/dbo.Salons.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BerberShopDB/True/SqlTable/dbo.Salons.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-22T00:07:20.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "dbo.Randevular.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BerberShopDB/True/SqlTable/dbo.Randevular.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BerberShopDB/True/SqlTable/dbo.Randevular.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-22T00:07:20.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "dbo.CalismaSaatis.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BerberShopDB/True/SqlTable/dbo.CalismaSaatis.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BerberShopDB/True/SqlTable/dbo.CalismaSaatis.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-22T00:07:20.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "dbo.CalisanHizmets.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BerberShopDB/True/SqlTable/dbo.CalisanHizmets.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BerberShopDB/True/SqlTable/dbo.CalisanHizmets.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-22T00:07:20.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "dbo.Calisans.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BerberShopDB/True/SqlTable/dbo.Calisans.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BerberShopDB/True/SqlTable/dbo.Calisans.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-22T00:06:49.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20241222000701_m3.cs",
+              "DocumentMoniker": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Migrations\\20241222000701_m3.cs",
+              "RelativeDocumentMoniker": "Bshop\\Migrations\\20241222000701_m3.cs",
+              "ToolTip": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Migrations\\20241222000701_m3.cs",
+              "RelativeToolTip": "Bshop\\Migrations\\20241222000701_m3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T00:07:01.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Bshop\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PRO\\source\\repos\\Bshop\\Bshop\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Bshop\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAmwCwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T23:42:20.857Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

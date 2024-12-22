@@ -1,0 +1,26 @@
+﻿
+<p>
+    <a href="@Url.Action("Create")" class="btn btn-primary">Yeni Randevu Ekle</a>
+</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Salon</th>
+            <th>Çalışan</th>
+            <th>Hizmet</th>
+            <th>Randevu Saati</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Salon.Name</td>
+                <td>@item.CalisanHizmet.Calisan?.FullName</td> <!-- Çalışan Adı -->
+                <td>@item.CalisanHizmet.Hizmet?.Name</td> <!-- Hizmet Adı -->
+                <td>@item.RandevuSaati.ToString("dd.MM.yyyy HH:mm")</td>
+            </tr>
+        }
+    </tbody>
+</table>
